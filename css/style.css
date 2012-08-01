@@ -1,0 +1,45 @@
+
+/* ===== Primary Styles ========================================================
+   Author: Goryo
+   ========================================================================== */
+
+.top-head{
+    padding-left: 45px;
+    margin-top: -50px;
+}
+#footer_right{
+    float: right;
+}
+#footer_left{
+    float: left;
+}
+
+footer{
+    font-size:10px;
+    color: #B7A1A1;
+    text-decoration:none;
+}
+
+.error{
+    font-family: sans-serif;
+    color: red;
+}
+
+#success_info {
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	width:500px;
+	height:300px;
+	margin-top: -150px; /*set to a negative number 1/2 of your height*/
+	margin-left: -250px; /*set to a negative number 1/2 of your width*/
+	border: 2px solid #2982C6;
+	background-color: #FFF;
+    text-align: center;
+}
+
+#pagination a{
+	
+	
+}
+
